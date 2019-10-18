@@ -1,2 +1,2 @@
-# House-Sales-Prediction-using-Regression-sklearn-Simple-Multiple-Poly-
+# House-Sales-Prediction-using-Regression-sklearn
 The objective is to create a linear regression model(Simple, Multiple and Polynomial) for a given data set House Sales in King County, USA using sklearn library and identify which regression model fits better for the data set. Linear Regression Analysis consists of more than just fitting a linear line through a cloud of data points. It consists of 3 stages – (1) analyzing the correlation and directionality of the data, (2) estimating the model, i.e., fitting the line, and (3) evaluating the validity and usefulness of the model.
